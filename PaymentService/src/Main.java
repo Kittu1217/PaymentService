@@ -13,6 +13,6 @@ public class Main {
         System.out.println(Arrays.toString(a));
         SortArray.sortArr(a);
         System.out.println(Arrays.toString(a));
-
+        System.out.println("This is git branch command");
     }
 }
