@@ -6,5 +6,6 @@ public class Main {
 
         String reverse=StringReverse.reverse("kishore");
         System.out.println(reverse);
+        System.out.println("============");
     }
 }
