@@ -8,7 +8,6 @@ public class Main {
 
         String reverse=StringReverse.reverse("kishore");
         System.out.println(reverse);
-        System.out.println("============");
         int[] a={5,6,1,3,2,4,7};
         System.out.println(Arrays.toString(a));
         SortArray.sortArr(a);
